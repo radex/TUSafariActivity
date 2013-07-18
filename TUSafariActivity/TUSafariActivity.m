@@ -41,7 +41,7 @@
 
 - (NSString *)activityTitle
 {
-	return NSLocalizedStringFromTable(@"Open in Safari", @"TUSafariActivity", nil);
+	return @"Safari";
 }
 
 - (UIImage *)activityImage
